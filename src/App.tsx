@@ -2,7 +2,7 @@ import React from 'react';
 
 
 function App() {
-  return <h1>RocktSeat</h1>
+  return <h1>Testando</h1>
   
 }
 
